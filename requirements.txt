@@ -1,5 +1,5 @@
 torch>=1.6.0
-chamferdist==1.0.0
+# chamferdist==1.0.0
 imageio
 kornia
 natsort
